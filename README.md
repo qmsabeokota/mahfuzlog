@@ -38,7 +38,7 @@ A aplicação **Flutter** consome os endpoints do **backend PHP**, trocando dado
 
 ### Backend
 - **PHP 8+**
-- **MySQL/MariaDB**
+- **MySQL**
 - **Arquitetura MVC**
 - **APIs RESTful**
 - **HTML, CSS, JavaScript (para o painel administrativo)**
